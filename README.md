@@ -1,0 +1,7 @@
+# DevOps Lab Assignment 2: Build, Containerize and Automate
+
+A personal portfolio page styled like an ML model card, built with plain HTML and CSS.
+The page is packaged with Docker (nginx) and automatically checked and pushed to
+Docker Hub by GitHub Actions on every push to main.
+
+**Author:** Malaika Naz (FA23-BAI-063)
