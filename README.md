@@ -6,4 +6,6 @@ Docker Hub by GitHub Actions on every push to main.
 
 Run locally: open index.html in a browser.
 
+CI runs on every push to main and on every pull request.
+
 **Author:** Malaika Naz (FA23-BAI-063)
