@@ -21,7 +21,7 @@ jobs:
       - name: Check the page content
         run: |
           grep -q '<title>' index.html
-          grep -q 'FA23-BAI-063' index.html
+          grep -q 'FA23-BAI-999' index.html
           grep -q 'id="skills"' index.html
           grep -q 'style.css' index.html
 
